@@ -29,7 +29,7 @@ const messages = [
 	"ate a voltorb!",
 	"lost a battle because of forcewin!",
 	"fell into a ekans pit!",
-  "is blasting off again (L Chevy got this)", // bought by L Chevy 12
+        "is blasting off again", // bought by L Chevy 12
 ];
 
 exports.commands = {
